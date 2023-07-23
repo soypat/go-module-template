@@ -1,3 +1,5 @@
+// package gomoduletemplate is a template repository
+// for creating new Go modules with basic CI instrumentation.
 package gomoduletemplate
 
 // Fibonacci returns the nth number in the Fibonacci sequence.
