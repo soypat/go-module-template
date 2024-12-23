@@ -42,7 +42,7 @@ jobs:
         # Replace `linux` below with the appropriate OS
         # Options are `alpine`, `linux`, `macos`, `windows`
         # You will need to setup the environment variables below in github
-        # and the project in codecov.io
+        # and the project in codecov.io: https://app.codecov.io/gh/${{ github.repository }}
         go test -v -coverprofile=coverage.txt -covermode=atomic ./...
         curl -Os https://uploader.codecov.io/latest/linux/codecov
         chmod +x codecov
