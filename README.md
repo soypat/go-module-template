@@ -3,10 +3,9 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/soypat/go-module-template)](https://goreportcard.com/report/github.com/soypat/go-module-template)
 [![codecov](https://codecov.io/gh/soypat/go-module-template/branch/main/graph/badge.svg)](https://codecov.io/gh/soypat/go-module-template)
 [![Go](https://github.com/soypat/go-module-template/actions/workflows/go.yml/badge.svg)](https://github.com/soypat/go-module-template/actions/workflows/go.yml)
-[![stability-frozen](https://img.shields.io/badge/stability-frozen-blue.svg)](https://github.com/emersion/stability-badges#frozen)
 [![sourcegraph](https://sourcegraph.com/github.com/soypat/go-module-template/-/badge.svg)](https://sourcegraph.com/github.com/soypat/go-module-template?badge)
 <!--
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental)
 
